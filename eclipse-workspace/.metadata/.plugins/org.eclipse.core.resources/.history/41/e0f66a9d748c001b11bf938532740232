@@ -1,0 +1,13 @@
+package javaExam;
+
+
+public class HelloWorld {
+	public static void main(String args[]) {
+		System.out.println("Hello Java");
+//		주석
+		/* 주석 */
+		System.out.println(/* "주석으로 바꿔봐" */);
+		System.out.println(10);
+		System.out.println(10.0);
+	}
+}
